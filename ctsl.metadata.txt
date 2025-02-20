@@ -1,0 +1,23 @@
+cw	SampleID	Mouse_No	Sex	Genotype	Tissue	Cell_type	Cell_number	filename
+30903b-045	45	"232557, 237617"	f	WT	Thymus	M2	270000	Raw_clonotypes-30903b-045_1.1 (paired).csv
+30903b-046	46	"231924, 236048"	m	WT	Thymus	M2	390000	Raw_clonotypes-30903b-046_1.1 (paired).csv
+30903b-047	47	"237615, 242230"	m	WT	Thymus	M2	277000	Raw_clonotypes-30903b-047_1.1 (paired).csv
+30903b-048	48	"232555, 236388"	m	CtslDeltaTEC	Thymus	M2	249000	Raw_clonotypes-30903b-048_1.1 (paired).csv
+30903b-049	49	"233078, 233079"	f	CtslDeltaTEC	Thymus	M2	257000	Raw_clonotypes-30903b-049_1.1 (paired).csv
+30903b-050	50	"236039, 236392, 242219"	f	CtslDeltaTEC	Thymus	M2	411000	Raw_clonotypes-30903b-050_1.1 (paired).csv
+31411-001	34	297662	f	WT	Thymus	M2 CD5lo	204505	Raw_clonotypes-31411-001.R1 (paired).csv
+31411-002	35	297662	f	WT	Thymus	M2 CD5hi	184740	Raw_clonotypes-31411-002.R1 (paired).csv
+31411-003	36	297664	f	WT	Thymus	M2 CD5lo	197858	Raw_clonotypes-31411-003.R1 (paired).csv
+31411-004	37	297664	f	WT	Thymus	M2 CD5hi	179294	Raw_clonotypes-31411-004.R1 (paired).csv
+31411-005	38	297661	m	WT	Thymus	M2 CD5lo	105325	Raw_clonotypes-31411-005.R1 (paired).csv
+31411-006	39	297661	m	WT	Thymus	M2 CD5hi	95185	Raw_clonotypes-31411-006.R1 (paired).csv
+31411-007	40	296468	m	WT	Thymus	M2 CD5lo	84787	Raw_clonotypes-31411-007.R1 (paired).csv
+31411-008	41	296468	m	WT	Thymus	M2 CD5hi	78087	Raw_clonotypes-31411-008.R1 (paired).csv
+31411-009	44	297662	f	WT	Spleen	Naive CD4+ Tconv	300000	Raw_clonotypes-31411-009.R1 (paired).csv
+31411-010	45	297664	f	WT	Spleen	Naive CD4+ Tconv	300000	Raw_clonotypes-31411-010.R1 (paired).csv
+31411-011	46	297661	m	WT	Spleen	Naive CD4+ Tconv	300000	Raw_clonotypes-31411-011.R1 (paired).csv
+31411-012	47	296468	m	WT	Spleen	Naive CD4+ Tconv	360000	Raw_clonotypes-31411-012.R1 (paired).csv
+31411-013	49	297659	m	WT	Spleen	LLO-tetr+ CD4+ Tconv	56200	Raw_clonotypes-31411-013.R1 (paired).csv
+31411-014	50	297663	f	WT	Spleen	LLO-tetr+ CD4+ Tconv	118900	Raw_clonotypes-31411-014.R1 (paired).csv
+31411-015	31	277588	f	WT	Spleen+LNs	LLO-tetr+ CD4+ Tconv	220000	Raw_clonotypes-31411-015.R1 (paired).csv
+31411-016	32	277589	f	WT	Spleen+LNs	LLO-tetr+ CD4+ Tconv	285000	Raw_clonotypes-31411-016.R1 (paired).csv
