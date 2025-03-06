@@ -339,7 +339,7 @@ gr <- ggplot(tf6, aes(y=div_ratio, x=xval, colour= cat,
   scale_y_continuous(limits = c(.9 * min(tf6$div_ratio),1.1 * max(tf6$div_ratio))) +
   scale_x_continuous(limits = c(.5,2.5),
                      breaks = seq(1,2),
-                     labels = GOI) +
+                     labels = SROI[1:2]) +
   annotate('text', label = paste ("p =", round(as.numeric(st[3]),4)),
            x = 1.5, y = 2.1, size = 2)
 gr
@@ -360,7 +360,7 @@ gr <- ggplot(tf6, aes(y=div_ratio, x=xval, colour= cat,
   scale_y_continuous(limits = c(.9 * min(tf6$div_ratio),1.1 * max(tf6$div_ratio))) +
   scale_x_continuous(limits = c(.5,2.5),
                      breaks = seq(1,2),
-                     labels = GOI) 
+                     labels = SROI[1:2]) 
 gr
 dev.off()
 # The above plot is label free.
