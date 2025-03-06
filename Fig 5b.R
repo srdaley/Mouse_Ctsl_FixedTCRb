@@ -75,5 +75,5 @@ colnames(results) <- SOI
 rownames(results) <- SOI
 
 # Write results to a Source Data file.
-write.table(results, file = paste0(doa, toa, ".txt"), row.names = T, sep = "\t", quote = F)
+write.table(results, file = paste0(doa, toa, ".txt"), col.names = NA, sep = "\t", quote = F)
 
