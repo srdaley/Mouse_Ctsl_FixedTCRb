@@ -1,0 +1,3 @@
+cat	clones	reads	pc_reads
+wtpri	5	1458623	44.7126843035694
+shared	5	1803590	55.2873156964306
