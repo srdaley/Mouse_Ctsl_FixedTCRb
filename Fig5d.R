@@ -134,7 +134,6 @@ for (cn in 5:ncol(sd1)){
 
 sd1$rs <- rowSums(sd1[,CWOI])
 
-# Deal with CD5lo first
 sd2 <- sd1 %>% 
   filter(rs == 4) 
 
