@@ -81,4 +81,4 @@ colnames(res) <- SOI
 rownames(res) <- SOI
 # Write results to a Source Data file.
 write.table(res, file = paste(doa, toa, "abdiv_mh_weighted.txt", sep = "."), 
-            row.names = F, sep = "\t", quote = F)
+            col.names = NA, sep = "\t", quote = F)
